@@ -1,7 +1,7 @@
-@angular-material-components/color-picker
+@cahdev-angular-material-components/color-picker
 MIT
 
-@angular-material-components/datetime-picker
+@cahdev-angular-material-components/datetime-picker
 MIT
 MIT License
 
@@ -25,7 +25,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-@angular-material-components/file-input
+@cahdev-angular-material-components/file-input
 MIT
 
 @angular/animations

@@ -23,20 +23,20 @@
       "node"
     ],
     "paths": {
-      "@angular-material-components/*": [
-        "dist/@angular-material-components/*"
+      "@cahdev-angular-material-components/*": [
+        "dist/@cahdev-angular-material-components/*"
       ],
-      "@angular-material-components/color-picker": [
-        "dist/@angular-material-components/color-picker"
+      "@cahdev-angular-material-components/color-picker": [
+        "dist/@cahdev-angular-material-components/color-picker"
       ],
-      "@angular-material-components/color-picker/*": [
-        "dist/@angular-material-components/color-picker/*"
+      "@cahdev-angular-material-components/color-picker/*": [
+        "dist/@cahdev-angular-material-components/color-picker/*"
       ],
-      "@angular-material-components/datetime-picker": [
-        "dist/@angular-material-components/datetime-picker"
+      "@cahdev-angular-material-components/datetime-picker": [
+        "dist/@cahdev-angular-material-components/datetime-picker"
       ],
-      "@angular-material-components/datetime-picker/*": [
-        "dist/@angular-material-components/datetime-picker/*"
+      "@cahdev-angular-material-components/datetime-picker/*": [
+        "dist/@cahdev-angular-material-components/datetime-picker/*"
       ],
       "file-input": [
         "dist/file-input"

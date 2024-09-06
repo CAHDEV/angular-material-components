@@ -10,7 +10,7 @@ import { MAT_DATE_LOCALE } from '@angular/material/core';
 import * as _moment from 'moment';
 // tslint:disable-next-line:no-duplicate-imports
 import { default as _rollupMoment, Moment, MomentFormatSpecification, MomentInput } from 'moment';
-import { NgxMatDateAdapter } from '@angular-material-components/datetime-picker';
+import { NgxMatDateAdapter } from '@cahdev-angular-material-components/datetime-picker';
 
 const moment = _rollupMoment || _moment;
 

@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/h2qutc/angular-material-components.svg?branch=master)](https://travis-ci.com/h2qutc/angular-material-components)
 [![License](https://img.shields.io/npm/l/angular-material-components.svg)](https://www.npmjs.com/package/angular-material-components)
-[![npm version](https://badge.fury.io/js/%40angular-material-components%2Fcolor-picker.svg)](https://www.npmjs.com/package/@angular-material-components/color-picker)
+[![npm version](https://badge.fury.io/js/%40angular-material-components%2Fcolor-picker.svg)](https://www.npmjs.com/package/@cahdev-angular-material-components/color-picker)
 
 ## Description
 
@@ -18,7 +18,7 @@ An Angular Material Color Picker.
 
 Choose the version corresponding to your Angular version:
 
- Angular     | @angular-material-components/color-picker
+ Angular     | @cahdev-angular-material-components/color-picker
  ----------- | -------------------
  16          | 16.x+
  15          | 15.x+ OR 9.x+ for legacy import
@@ -34,13 +34,13 @@ Choose the version corresponding to your Angular version:
 ## Getting started
 
 ```
-npm install --save  @angular-material-components/color-picker
+npm install --save  @cahdev-angular-material-components/color-picker
 ```
 
 ## Setup
 
 ```
-import { MAT_COLOR_FORMATS, NgxMatColorPickerModule, NGX_MAT_COLOR_FORMATS } from '@angular-material-components/color-picker';
+import { MAT_COLOR_FORMATS, NgxMatColorPickerModule, NGX_MAT_COLOR_FORMATS } from '@cahdev-angular-material-components/color-picker';
 
 @NgModule({
    ...
