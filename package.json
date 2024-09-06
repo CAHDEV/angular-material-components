@@ -1,16 +1,16 @@
 {
-  "name": "angular-material-components",
-  "version": "16.0.1",
+  "name": "cahdev-angular-material-components",
+  "version": "17.0.0",
   "description": "Angular Material Datetime Picker",
-  "author": "HO Hong Quan",
+  "author": "cahdev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/h2qutc/angular-material-components.git"
+    "url": "https://github.com/CAHDEV/angular-material-components.git"
   },
   "bugs": {
-    "url": "https://github.com/h2qutc/angular-material-components/issues"
+    "url": "https://github.com/CAHDEV/angular-material-components/issues"
   },
-  "homepage": "https://github.com/h2qutc/angular-material-components",
+  "homepage": "https://github.com/CAHDEV/angular-material-components",
   "keywords": [
     "angular",
     "angular2",
@@ -19,6 +19,7 @@
     "angular 14",
     "angular 15",
     "angular 16",
+    "angular 17",
     "angular-material",
     "angular material datetime picker",
     "angular material time picker",
